@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671402002 source:c:\users\luanf\onedrive\Área de trabalho\c\jogo_da_memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1671374122 source:c:\users\luanf\onedrive\Área de trabalho\c\jogo_da_memoria\embaralha.c
+	<stdio.h>
+
